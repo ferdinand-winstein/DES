@@ -1,5 +1,9 @@
-Kelompok ini beranggotakan :
+Disini terdapat:
+Aplikasi.cpp : berisi aplikasi algoritma pada bahasa c++
+Penjelasan   : Penjelasan fungsi pada Aplikasi.cpp tiap line nya
+DES.pptx     : berisi sejarah terbentuknya DES
 
+Kelompok ini beranggotakan :
 Ferdinand Winstein
 - Membuat program sampai Key XOR dengan R ke i (belum masuk S-box)
 - Ikut Persentasi
